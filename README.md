@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasif Aliyev</h1> 
 <h3 align="center">Hey, I'm ReactJs Frontend Learner. I am a web developer with high enthusiasm and patience to get new skills and make my knowledge deeper.</h3> 
 - 🌱 I’m currently learning **Javascript,ReactJs,NodeJs** 
+<br>
 - ⚡ Fun fact I love gaming 
 - <h3 align="left">Connect with me:</h3> 
 - <p align="left"> <a href="https://www.linkedin.com/in/vasif-aliyev-403458260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vasif" height="30" width="40" /></a> <a href="https://instagram.com/aliyev__vasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasif__aliyev" height="30" width="40" /></a> </p> 
