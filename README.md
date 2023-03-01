@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasif Aliyev</h1> 
 <h3 align="center">Hey, I'm ReactJs Frontend Learner. I am a web developer with high enthusiasm and patience to get new skills and make my knowledge deeper.</h3> 
-- 🌱 I’m currently learning **Javascript,ReactJs,NodeJs** 
+- 🌱 I’m currently learning Javascript,ReactJs,NodeJs
 <br>
 - ⚡ Fun fact I love gaming 
 - <h3 align="left">Connect with me:</h3> 
